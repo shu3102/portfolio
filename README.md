@@ -38,6 +38,3 @@ git clone
 ## Contact
 
 
-## License
-
-MIT
